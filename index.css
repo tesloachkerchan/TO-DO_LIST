@@ -35,8 +35,9 @@ h1 {
 
 #taskInput {
     display: flex;
-    width: 100%;
+    width: 50%;
     padding: 10px;
+    align-items: center;
     margin-bottom: 20px;
     border: none;
     border-radius: 5px;
